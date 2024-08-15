@@ -24,3 +24,22 @@ Tools: Python Keyword Extraction, FlashText, HTML ElementTree (for visualization
 5. Generate Match the Following Questions
 Objective: Create matching-type questions by extracting and pairing keywords.
 Tools: Python Keyword Extraction, FlashText, BERT (for word sense disambiguation).
+# Getting Started
+Installation
+Clone this repository:
+bash
+Copy code
+git clone https://github.com/your-username/nlp-question-generation.git
+cd nlp-question-generation
+Install required libraries:
+bash
+Copy code
+pip install -r requirements.txt
+Running the Notebooks
+Each section of the course is accompanied by a Google Colab notebook. Open the notebooks in Google Colab to explore the code and run the models on free cloud GPUs provided by Google.
+
+# Examples
+Check the /notebooks directory for example notebooks corresponding to each section of the course.
+
+# Contributing
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
